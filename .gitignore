@@ -1,0 +1,7 @@
+.sites-runtime/
+node_modules/
+*.zip
+*.tar.gz
+.env
+.env.*
+!.env.example
