@@ -25,6 +25,19 @@ Consulta realizada em 10/09/2026. O relatório enviado foi tratado como referên
 6. Não foram afirmadas visitas a todos os municípios, entregas de obras ou depoimentos de apoiadores sem comprovação.
 7. Projetos, indicações, aprovações em plenário e ações executadas são situações distintas. A redação descreve apenas o que a fonte comprova.
 
+## Ampliação da trajetória e fotografias
+
+A linha do tempo foi ampliada com sete etapas. Datas exatas são usadas apenas quando constam nas fontes: nascimento (20/10/1975), sessão (05/02/2015, notícia de 06/02), posse (20/04/2021), diploma (15/12/2022), início do mandato (01/02/2023) e data escrita no PL 99/2025 (04/07/2025, não afirmada como protocolo ou aprovação). Para eleições sem data exata consultada, foi mantido apenas o ano.
+
+Fotografias conferidas visualmente, preservadas integralmente e convertidas para WebP com redução de tamanho, sem reconstrução ou alteração do conteúdo:
+
+| Arquivo | Origem da fotografia | Publicação que contextualiza a imagem | Crédito exibido |
+| --- | --- | --- | --- |
+| `dist/assets/history/tribuna-2015.webp` | https://www.al.ac.leg.br/wp-content/uploads/2015/02/andre0502315.jpg | https://www.al.ac.leg.br/?p=1743 | Acervo da Agência Aleac |
+| `dist/assets/history/posse-2021.webp` | https://www.al.ac.leg.br/wp-content/uploads/2021/04/andre-droga-valle-01.jpg | https://www.al.ac.leg.br/?p=32561 | Acervo da Agência Aleac |
+
+Não foi identificado crédito individual de fotógrafo nas publicações consultadas; o crédito institucional não atribui a fotografia à autora da notícia. A legenda de 2015 identifica a imagem como integrante da publicação, sem afirmar uma data de captura não confirmada. Não foram usadas fotos recentes como se fossem registros da infância, da farmácia ou de eleições anteriores. O acesso automatizado pelo navegador de pesquisa retornou 403, mas as páginas e imagens originais foram obtidas por requisição HTTP normal e conferidas.
+
 ## Pendente para a campanha
 
 - Informar WhatsApp oficial, caso deseje adicioná-lo ao site.

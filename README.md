@@ -15,6 +15,7 @@ O registro do domínio, a hospedagem pública e os apontamentos DNS precisam est
 - `dist/index.html`: texto, links e metadados.
 - `dist/styles.css`: identidade visual e adaptação a telas menores.
 - `dist/refinement.css`: refinamento tipográfico, composição da abertura e ritmo de espaçamentos.
+- `dist/history.css`: narrativa cronológica com sete etapas, fotografias históricas e fontes.
 - `dist/assets/fonts/`: fonte variável Manrope hospedada localmente e licença SIL Open Font License.
 - `dist/script.js`: menu móvel e aviso de privacidade.
 - `dist/assets/`: versões otimizadas dos materiais fornecidos, sem alteração da identidade ou da foto.
