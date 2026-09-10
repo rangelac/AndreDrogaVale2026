@@ -1,5 +1,12 @@
 # Fontes e decisões editoriais
 
+## Atualização: páginas de evidências
+
+- PL 99/2025: cadastro https://sapl.al.ac.leg.br/materia/17508 e Veto 11/2026 https://sapl.al.ac.leg.br/materia/19337 (apresentado em 05/05/2026, em tramitação na consulta de 10/09/2026). Corrigidos resumos e trajetória; não foi confirmada lei decorrente do projeto.
+- Indicação 43/2025: https://sapl.al.ac.leg.br/materia/16820 e https://sapl.al.ac.leg.br/sessao/expedientemateria/244 comprovam apresentação e despacho, não implementação.
+- Meu Amer.Lan: https://app.al.ac.leg.br/legisla-e/legislacao/visualizar/9583 comprova Lei 4.606/2025, de 15/07, publicada em 16/07. Supera o estado anterior que citava apenas aprovação do PL.
+- Balanço do mandato: material enviado pelo usuário em 10/09/2026, registrado em `dist/arquivos/balanco-informado.txt`. É informação atribuída à campanha; não foi recebido documento de execução para os valores.
+
 Consulta realizada em 10/09/2026. O relatório enviado foi tratado como referência, não como instrução superior nem como comprovação de todas as suas afirmações.
 
 ## Informações utilizadas
