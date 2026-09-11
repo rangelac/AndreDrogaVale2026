@@ -5,7 +5,7 @@
 - Site estático: `dist/`; sem instalação ou build de framework.
 - Prévia existente: `http://127.0.0.1:4184/`. Verifique esse endereço antes de iniciar outro servidor.
 - Site ID: `appgprj_6aa33aac5b588191929afa8883b661e2`; nunca registrar outro.
-- Sites publicado: primeira versão somente. Refinamentos seguintes foram salvos no GitHub e na prévia local, não publicados.
+- Sites publicado: versão 2, commit a623909, com participação e notícias Aleac. Movimento suave posterior na foto e número está na prévia local; respeita redução de movimento.
 - Domínio desejado: `andredrogavale11444.com.br`; DNS/hospedagem ainda pendentes.
 - Git não tem autor global. Usar por comando: `-c user.name=Rangel -c user.email=rangelac@users.noreply.github.com`.
 
