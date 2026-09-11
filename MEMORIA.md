@@ -29,7 +29,7 @@
 - Material também informa mãe como Darcisete (fonte SAPL anterior: Dercizete), esposa Lucilene, filha Letícia, neto Pedro. Não resolver divergência de grafia silenciosamente nem assumir graduação em Farmácia.
 
 ## Próximo passo dependente do usuário
-- Confirmar propostas oficiais de 2026. Rascunhos internos já têm campos de objetivo, instrumento, limites e acompanhamento.
+- Usuário autorizou 13 propostas em seis temas em 11/09/2026. Texto preservado em seção 04 Propostas, cartões expansíveis; Instagram 05, contato 06, Participe 07. Não tratar compromissos como leis ou programas já implantados.
 - Publicação das alterações no Sites exige pedido de publicação; não presumir a partir de simples edição.
 
 - Seção 06 Participe: grupo WhatsApp e Twibbonize, com exemplos de perfil e story enviados pelo usuário. Estilos em dist/participacao.css. Prévias de duas notícias Aleac dentro da seção 03; demais números preservados.
