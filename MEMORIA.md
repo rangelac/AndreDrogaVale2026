@@ -36,3 +36,5 @@
 
 - CNPJ corrigido para 68.499.919/0001-05 conforme comprovante enviado em 11/09/2026. Foto institucional extraída do folder; atuação por região atribuída ao material, sem afirmar execução documentalmente comprovada; PDF disponível em Participe. Mudanças ainda locais/GitHub.
 - Revisão móvel: larguras 320/360/390/430/768/1024 sem overflow; toque em menu, âncora e propostas testado em Edge headless. mobile.css melhora alvos de toque, texto e menu em telas baixas. Instagram bloqueado no teste automatizado: conteúdo remoto e reprodução não validados; eager principal preservado.
+
+- Compartilhamento: capa JPEG 1200x630 em assets/compartilhar-andre-vale.jpg e metadados OG/Twitter no HTML. URL absoluta usa domínio definitivo; prévia WhatsApp depende de publicação pública e DNS. Ainda não validada no WhatsApp.
