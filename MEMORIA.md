@@ -24,10 +24,12 @@
 - Indicação 43/2025: pedido registrado e despachado; execução não comprovada nas fontes consultadas.
 - PL 37/2025: Lei 4.606 de 15/07/2025, publicada em 16/07/2025. Denomina Meu Amer.Lan; não cria aplicativo de estoques.
 - Sem promessas atribuídas ao candidato a partir das sugestões do relatório. Aprovação de lei não é aprovação de plataforma eleitoral.
-- Contato: Instagram oficial; WhatsApp ainda não informado.
+- Contato: Instagram oficial e grupo WhatsApp fornecido pelo usuário; convite em dist/index.html. Criador de foto: https://www.twibbonize.com/andre11444.
 - Usuário enviou balanço de realizações: saúde > R$3mi, Quinari R$850mil, Juruá R$500mil, Rodrigues Alves R$250mil, Bujari >30 famílias. Manter apenas na memória; execução documental pendente. Não somar possíveis sobreposições.
 - Material também informa mãe como Darcisete (fonte SAPL anterior: Dercizete), esposa Lucilene, filha Letícia, neto Pedro. Não resolver divergência de grafia silenciosamente nem assumir graduação em Farmácia.
 
 ## Próximo passo dependente do usuário
 - Confirmar propostas oficiais de 2026. Rascunhos internos já têm campos de objetivo, instrumento, limites e acompanhamento.
 - Publicação das alterações no Sites exige pedido de publicação; não presumir a partir de simples edição.
+
+- Seção 06 Participe: grupo WhatsApp e Twibbonize, com exemplos de perfil e story enviados pelo usuário. Estilos em dist/participacao.css. Prévias de duas notícias Aleac dentro da seção 03; demais números preservados.

@@ -47,7 +47,17 @@ Não foi identificado crédito individual de fotógrafo nas publicações consul
 
 ## Pendente para a campanha
 
-- Informar WhatsApp oficial, caso deseje adicioná-lo ao site.
+- Grupo WhatsApp informado pelo usuário em 10/09/2026 e incluído na seção Participe.
 - Confirmar dados cadastrais de campanha e eventuais complementos de identificação para publicação pública.
 - Fornecer propostas oficialmente aprovadas, caso deseje uma seção de plataforma de 2026.
 - Configurar hospedagem e DNS do domínio informado. Não foi afirmada publicação no domínio próprio.
+
+## Participação e prévias Aleac — 10/09/2026
+
+- Grupo WhatsApp e Twibbonize: links fornecidos pelo usuário; destinos não verificados pela ferramenta de pesquisa.
+- Exemplos perfil.webp e story.webp: arquivos apoio-perfil.jpg e apoio-story (1).jpg enviados pelo usuário, apenas otimizados, preservando as marcas presentes.
+- Notícia de 29/04/2026: https://www.al.ac.leg.br/?p=80003 — posse de servidores do Idaf e anúncio de vistoria na BR-364.
+- Fotografia aleac-idaf.webp: https://www.al.ac.leg.br/wp-content/uploads/2026/04/PHOTO-2026-04-29-10-33-45.jpg
+- Notícia de 10/03/2026: https://www.al.ac.leg.br/?p=78799 — cobrança por melhorias na BR-364 e anúncio de indicação ao DNIT.
+- Fotografia aleac-br364.webp: https://www.al.ac.leg.br/wp-content/uploads/2026/03/PHOTO-2026-03-10-11-22-00.jpg
+- Páginas oficiais consultadas e fotografias conferidas. Crédito institucional Agência Aleac; resumos não apresentam pedidos como obras executadas.
