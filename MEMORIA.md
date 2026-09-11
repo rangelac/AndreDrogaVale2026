@@ -38,3 +38,4 @@
 - Revisão móvel: larguras 320/360/390/430/768/1024 sem overflow; toque em menu, âncora e propostas testado em Edge headless. mobile.css melhora alvos de toque, texto e menu em telas baixas. Instagram bloqueado no teste automatizado: conteúdo remoto e reprodução não validados; eager principal preservado.
 
 - Compartilhamento: capa JPEG 1200x630 em assets/compartilhar-andre-vale.jpg e metadados OG/Twitter no HTML. URL absoluta usa domínio definitivo; prévia WhatsApp depende de publicação pública e DNS. Ainda não validada no WhatsApp.
+- Rodapé ampliado com navegação, participação, fontes Aleac e identificação confirmada no CNPJ. Botão flutuante Grupo de Whatsapp usa convite fornecido, respeita área segura e fica oculto com diálogo aberto. Revisão responsiva sem overflow.
