@@ -1,0 +1,19 @@
+/* Touch and reading refinements without changing desktop composition. */
+@media(max-width:850px){
+  .button,.menu-toggle,.close-dialog,.privacy-button{min-height:44px;min-width:44px}
+  .text-link,.source-link,.history-source,.video-card>a,.back-top{display:inline-flex;align-items:center;min-height:44px}
+  .video-card>a{display:flex}
+  .proposal-content p,.region-card p{font-size:1rem;line-height:1.8}
+  .hero-actions{flex-wrap:wrap}
+}
+@media(max-width:680px){
+  :root{scroll-padding-top:118px}
+  .js .navigation{max-height:calc(100dvh - 110px);overflow-y:auto;overscroll-behavior:contain}
+  .navigation a{min-height:48px;display:flex;align-items:center}
+  .proposal-card summary{touch-action:manipulation}
+  .proposal-topic,.proposal-bottom{font-size:.875rem}
+  .video-card iframe{height:clamp(560px,165vw,680px)}
+  .hero-copy{padding-top:26px}
+  .hero-description{margin-bottom:18px}
+  .candidate-ticket{margin-top:20px}
+}
