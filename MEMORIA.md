@@ -41,3 +41,5 @@
 - Rodapé ampliado com navegação, participação, fontes Aleac e identificação confirmada no CNPJ. Botão flutuante Grupo de Whatsapp usa convite fornecido, respeita área segura e fica oculto com diálogo aberto. Revisão responsiva sem overflow.
 
 - Hostinger temporária: steelblue-woodpecker-198793.hostingersite.com. .htaccess na raiz encaminha internamente para dist; URL principal sem /dist/, arquivos internos não servidos. Implantação automática pelo GitHub.
+
+- Compartilhamento v2: capa quadrada 800x800 para miniatura WhatsApp, título curto e descrição com seis temas. og:url e imagem usam novo temporário lightgreen-stinkbug-299473.hostingersite.com informado na captura. Atualizar ambos ao conectar domínio definitivo.
