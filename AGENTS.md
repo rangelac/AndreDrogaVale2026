@@ -7,7 +7,7 @@
 - Agrupe leituras independentes. Faça alterações e verificações dependentes em sequência.
 - Execute `python scripts/check-site.py` uma vez após alterações; repita só se corrigir algo ou surgir um risco novo.
 - Não crie agentes, imagens, novas skills ou dependências por rotina. Use apenas quando o pedido justificar.
-- Para páginas de atuação, edite `scripts/build-initiatives.py` e regenere; não edite só o HTML gerado.
+- Memória, pesquisas e balanços recebidos ficam em documentos internos, salvo pedido explícito para exibição no site.
 - Atualize `MEMORIA.md` com decisões e pendências, substituindo informação antiga em vez de acumular relatos.
 - Respostas curtas: resultado, link e pendência real. Não repita plano ou lista de verificações.
 - Preserve pesquisa factual, acessibilidade, segurança e testes necessários: economia significa evitar repetição.
