@@ -12,7 +12,7 @@
 ## Mapa curto
 - `dist/index.html`: página principal restaurada, sem páginas separadas de evidências.
 - `dist/styles.css`, `refinement.css`, `history.css`: visual e trajetória preservados.
-- `dist/videos.css`: três incorporações do Instagram logo após a abertura.
+- `dist/videos.css`: três incorporações do Instagram após a trajetória (03); atuação 04 e contato 05.
 - `scripts/check-site.py`: checagem local reutilizável.
 - `FONTES.md` e `PROPOSTAS-VALIDACAO.md`: pesquisa interna, não publicar automaticamente.
 - Revertida a alteração pública do commit 2114c8c a pedido do usuário. Memória mantida.
