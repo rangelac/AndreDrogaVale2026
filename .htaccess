@@ -1,0 +1,14 @@
+# Hostinger: expose only the static site in dist at the domain root.
+Options -Indexes
+DirectoryIndex index.html
+RewriteEngine On
+
+# Keep certificate validation available.
+RewriteRule ^\.well-known/ - [L]
+# Never expose repository metadata or internal dotfiles.
+RewriteRule (^|/)\. - [F,L]
+
+# Stop internal rewrites once they reach the public directory.
+RewriteRule ^dist(?:/|$) - [L]
+RewriteRule ^$ dist/index.html [L]
+RewriteRule ^(.+)$ dist/$1 [L]
