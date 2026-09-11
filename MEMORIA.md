@@ -33,3 +33,5 @@
 - Publicação das alterações no Sites exige pedido de publicação; não presumir a partir de simples edição.
 
 - Seção 06 Participe: grupo WhatsApp e Twibbonize, com exemplos de perfil e story enviados pelo usuário. Estilos em dist/participacao.css. Prévias de duas notícias Aleac dentro da seção 03; demais números preservados.
+
+- CNPJ corrigido para 68.499.919/0001-05 conforme comprovante enviado em 11/09/2026. Foto institucional extraída do folder; atuação por região atribuída ao material, sem afirmar execução documentalmente comprovada; PDF disponível em Participe. Mudanças ainda locais/GitHub.
